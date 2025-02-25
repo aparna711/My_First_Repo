@@ -1,0 +1,9 @@
+fpdf==1.7.2
+matplotlib==3.10.0
+numpy==2.2.3
+pandas==2.2.3
+Pillow==11.1.0
+protobuf==5.29.3
+Requests==2.32.3
+streamlit==1.42.0
+google-generative == 0.8.4
